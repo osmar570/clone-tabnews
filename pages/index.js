@@ -17,7 +17,7 @@ function Home() {
           alignItems: "center",
         }}
       >
-        <h1>Sabrine, amo você, se você me ama, me faz um cafézin \u2764\ufe0f</h1>
+        <h1>Sabrine, amo você, se você me ama, me faz um cafézin ☕ \u2764\ufe0f</h1>
       </div>
     </>
   );
